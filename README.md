@@ -2,6 +2,8 @@
 
 Bu projede en çok kullanılan linux terminal komutlarına yer verilmiştir.
 
+## Klasör Komutları
+
 #### cd Komutu
 Çalışma dizinini değiştirir.
 ```
@@ -103,6 +105,9 @@ Dosya izinlerini değiştirir.
 chmod
 ```
 ![chmod](https://github.com/user-attachments/assets/2278b40c-9284-4b96-a9c3-8020cf3fecb9)
+
+## Sistem Komutları
+
 
 #### chown Komutu
 Dosya veya dizin sahibini değiştirir.
